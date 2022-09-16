@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268355871071",
+    "project_id": "social-media-app-3e4f2",
+    "storage_bucket": "social-media-app-3e4f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268355871071:android:a280e54d8ddab585f856ea",
+        "android_client_info": {
+          "package_name": "com.example.appinstagramremakekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268355871071-hknqj6eh3j53grkoen4abmic8fuand8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHjjqF3loua12lMKfW4nIFaxUf_ttto0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268355871071-hknqj6eh3j53grkoen4abmic8fuand8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
